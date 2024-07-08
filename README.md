@@ -9,5 +9,5 @@ Additionally Canva was used to create a mask for the video so that only the port
 
 for the line in the video its a simple line. To find the pixel values of the points from where you want to draw the lines, i have included a simple code to find it in my project just give it a frame of your video and it click on the points who's pixel values you need to know to draw the line which updates the vehicle counter once it's crossed.
 
-Video Demonstration of the project.
-[![Vehicle Counter]([https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/assets/demo.mp4](https://github.com/LoneDragonII/Yolo-V8-Vehicle-Counter/blob/main/final%20result.mp4))
+Video Demonstration of the project:
+[![Vehicle Counter](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://github.com/LoneDragonII/Yolo-V8-Vehicle-Counter/blob/main/videos/final%20result.mp4)
